@@ -2,7 +2,7 @@
 
 ### I'm a student of Computer Science Engineering
 
-- I’m currently learning on React and Flutter
+- I’m currently learning on Node
 
 ### Connect with me:
 
